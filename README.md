@@ -3,14 +3,16 @@
 ##Description
 Spaceship Assault is a game programmed in Java where the player controls a spaceship in space and is tasked to destroy as many enemies as possible.
 
-
 ##Downloads
 
-* Images: http://www.mediafire.com/download/5i8v6b16wzv4fb0/Spaceship_Assault_Images.zip)
+* Images: http://www.mediafire.com/download/5i8v6b16wzv4fb0/Spaceship_Assault_Images.zip
 
 ##Controls
 
-The player can move using WASD or UP, DOWN, LEFT, RIGHT, shoot with a left mouse click and fire rockets with R. The player can also pickup several different pickups such as extra bullet ammo.
+Movement: WASD or UP, DOWN, LEFT, RIGHT.
+Firing bullets: Left mouse click.
+Firing rockets: R.
+Sprinting: SHIFT.
 
 ##Changelog
 (The changelog is also posted at the top of the SpaceShipAssaultFrame class)
