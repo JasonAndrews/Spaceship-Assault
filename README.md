@@ -9,10 +9,10 @@ Spaceship Assault is a game programmed in Java where the player controls a space
 
 ##Controls
 
-Movement: WASD or UP, DOWN, LEFT, RIGHT.
-Firing bullets: Left mouse click.
-Firing rockets: R.
-Sprinting: SHIFT.
+ * Movement: WASD or UP, DOWN, LEFT, RIGHT.
+ * Firing bullets: Left mouse click.
+ * Firing rockets: R.
+ * Sprinting: SHIFT.
 
 ##Changelog
 (The changelog is also posted at the top of the SpaceShipAssaultFrame class)
