@@ -1,8 +1,8 @@
 #Spaceship Assault
-=========
-#Description
-=========
-This branch is for a game I am working on.
+
+##Description
+
+
 
 (The changelog (the text below) is also posted at the top of the SpaceShipAssaultFrame class)
 
